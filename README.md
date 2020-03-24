@@ -1,12 +1,14 @@
-![Icon - Imgur](https://user-images.githubusercontent.com/42587570/77418957-a4ee9f80-6ded-11ea-885d-f4ef7f893b95.jpg)
-
 # Counter App
+
+![Icon - Imgur](https://user-images.githubusercontent.com/42587570/77418957-a4ee9f80-6ded-11ea-885d-f4ef7f893b95.jpg)
 
 This is a test ios app I made for fun.
 
 ## Usage
 
 Pretty much what the name says. An app that counts.
+
+<img src="https://user-images.githubusercontent.com/42587570/77418957-a4ee9f80-6ded-11ea-885d-f4ef7f893b95.jpg" align="right" />
 
 ## Installation
 
@@ -19,6 +21,7 @@ git clone https://www.github.com/UnwantedTachyon/CounterApp.git
 - Open XCode
 - Build on your iPhone
 
+## Screenshots
 
 
 
