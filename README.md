@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/42587570/77418957-a4ee9f80-6ded-11ea-885d-f4ef7f893b95.jpg" align="right" />
+
 # Counter App
 
 This is a test ios app I made for fun.
@@ -20,6 +21,8 @@ git clone https://www.github.com/UnwantedTachyon/CounterApp.git
 
 ## View
 ![GgcOKUy](https://user-images.githubusercontent.com/42587570/77419408-5e4d7500-6dee-11ea-81b4-d1ff53a3454d.png)
+
+![Webp net-resizeimage](https://user-images.githubusercontent.com/42587570/77419933-33afec00-6def-11ea-9901-9808a1b615ac.png)
 
 ![6tm1a4y](https://user-images.githubusercontent.com/42587570/77419437-69080a00-6dee-11ea-8157-0debcb798c76.png)
 
