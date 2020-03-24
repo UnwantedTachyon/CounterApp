@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/42587570/77420304-ca7ca880-6def-11ea-8c16-5ba73d24d83e.jpg" align="right" />
+<img src="https://user-images.githubusercontent.com/42587570/77420515-30693000-6df0-11ea-84cc-fb5b3cc98569.jpg" align="right" />
 
 # Counter App
 
@@ -22,7 +22,9 @@ git clone https://www.github.com/UnwantedTachyon/CounterApp.git
 ## View
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/42587570/77419933-33afec00-6def-11ea-9901-9808a1b615ac.png)
 
+
 ![Webp net-resizeimage-2](https://user-images.githubusercontent.com/42587570/77420360-e97b3a80-6def-11ea-8308-a6395e87f47a.png)
+
 
 ![ezgif-1-933ba2d9248a](https://user-images.githubusercontent.com/42587570/77419368-4e359580-6dee-11ea-9244-ce0a2df2cd94.gif)
 
