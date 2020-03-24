@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/65BIKFg"><a href="//imgur.com/a/65BIKFg">Icon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/gallery/65BIKFg" align="right" />
 
 # Counter App
 
