@@ -1,6 +1,6 @@
+<img src="https://user-images.githubusercontent.com/42587570/77418957-a4ee9f80-6ded-11ea-885d-f4ef7f893b95.jpg" align="right" />
 # Counter App
 
-<img src="https://user-images.githubusercontent.com/42587570/77418957-a4ee9f80-6ded-11ea-885d-f4ef7f893b95.jpg" align="right" />
 This is a test ios app I made for fun.
 
 ## Usage
