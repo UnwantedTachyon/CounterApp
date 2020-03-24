@@ -12,9 +12,9 @@ Pretty much what the name says. An app that counts.
 
 - Clone the repository
 
-'''bash
+```bash
 git clone https://www.github.com/UnwantedTachyon/CounterApp.git
-'''
+```
 
 - Open XCode
 - Build on your iPhone
