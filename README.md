@@ -1,4 +1,4 @@
-<img src="https://imgur.com/gallery/65BIKFg" align="right" />
+![Icon - Imgur](https://user-images.githubusercontent.com/42587570/77418957-a4ee9f80-6ded-11ea-885d-f4ef7f893b95.jpg)
 
 # Counter App
 
