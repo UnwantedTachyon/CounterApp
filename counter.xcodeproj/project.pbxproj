@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E8B17BD924291318001FEACD /* counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = counter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8B17BD924291318001FEACD /* Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Counter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8B17BDC24291318001FEACD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E8B17BDE24291318001FEACD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E8B17BE024291318001FEACD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		E8B17BDA24291318001FEACD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E8B17BD924291318001FEACD /* counter.app */,
+				E8B17BD924291318001FEACD /* Counter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -92,7 +92,7 @@
 			);
 			name = counter;
 			productName = counter;
-			productReference = E8B17BD924291318001FEACD /* counter.app */;
+			productReference = E8B17BD924291318001FEACD /* Counter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -293,8 +293,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Harsh.counter;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Harsh.counter1;
+				PRODUCT_NAME = Counter;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -313,8 +313,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Harsh.counter;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Harsh.counter1;
+				PRODUCT_NAME = Counter;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
